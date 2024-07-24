@@ -1,3 +1,1 @@
-export module test2;
-
-export void MyFunc();
+//test test hello world 
