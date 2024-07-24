@@ -16,7 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test1.h">
-    <ClInclude Include="test1.h">
+    <ClInclude Include="test2.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
   </ItemGroup>
